@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+}
+
+/* HEADER */
+.header-content {
+    height: 50px;
+    width: 100%;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    gap: 600px;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px;
+    color:#F9FAF8;
+}
+
+.header-links {
+    display: flex;
+    gap: 60px;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+/* HERO */
