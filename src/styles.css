@@ -204,3 +204,17 @@ h1,h2,h3,h4,h5,h6,p {
     font-size: 14px;
     color: #E5E7EB;
 }
+
+/* FOOTER SECTION */
+.footer {
+    width: auto;
+    height: 80px;
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-text {
+    color: #E5E7EB;
+}
