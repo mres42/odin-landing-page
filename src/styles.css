@@ -176,10 +176,20 @@ h1,h2,h3,h4,h5,h6,p {
     height: 180px;
     background-color:#3882F6;
     border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px
+}
+
+.call-title {
+    color: #E5E7EB;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .call-text {
-    
+    color: #E5E7EB;
 }
 
 .call-btn {
